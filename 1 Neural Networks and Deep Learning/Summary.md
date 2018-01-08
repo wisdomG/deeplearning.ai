@@ -1,1 +1,7 @@
-# Neural Networks and Deep Learning## week1 ## week2 Logistic Regression as a Neural Network
+# Neural Networks and Deep Learning
+
+## numpy
+
+$$n_x$$
+
+
